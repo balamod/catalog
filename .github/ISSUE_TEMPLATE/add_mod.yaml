@@ -2,8 +2,6 @@ name: Add a new mod
 description: Register a new mod in the catalog
 title: "[Mod]: "
 labels: ["triage"]
-projects: []
-assignees: []
 body:
   - type: input
     id: mod_id
