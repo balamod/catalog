@@ -23,6 +23,7 @@ body:
     id: release_method
     attributes:
       label: Release Method
+      description: How do you release your mod (GitHub Releases or Branch Tarball, it will affect the download URL of the mod artifacts)
       options:
         - GitHub Releases
         - Branch Tarball
