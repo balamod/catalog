@@ -26,8 +26,8 @@ body:
     attributes:
       label: Release Method
       options:
-        - label: GitHub Releases
-        - label: Branch Tarball
+        - GitHub Releases
+        - Branch Tarball
       default: 0
     validations:
       required: true
